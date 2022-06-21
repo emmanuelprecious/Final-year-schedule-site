@@ -36,9 +36,11 @@ body , html {
     display: flex;
     align-items: center;
     cursor: pointer;
+    color: white;
 }
 .nav-links li {
     margin: 0 30px;
+    color: white;
 }
 header {
     width: 100vw;
