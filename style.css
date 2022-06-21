@@ -130,7 +130,7 @@ p {
 .explore{
     width: 100%;
     height: 80vh;
-    background-image:url('./img/bg2.png') ;
+    background-image:url('./img/grbg.webp') ;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -152,8 +152,8 @@ p {
     margin-bottom: 50px;
 }
 .explore-content p {
-    font-size: 20px;
-    color: rgb(221, 221, 221);
+    font-size: 23px;
+    color: black;
 }
 .explore-content .ctn {
     margin-top: 40px;
